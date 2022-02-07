@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martinnaste
+- 👋 Hi, I’m Martin Nastevski - @martinnaste - This is my GitHub profile, it contains projects from University and more!
 - 👀 I’m interested in Front End Web Development and Web3.0
 - 🌱 I’m currently learning React, Javascript, HTML, CSS, Solididy
 - 💞️ I’m looking to collaborate on anything decentralised, anything front end, or both!
